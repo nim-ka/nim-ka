@@ -2,7 +2,7 @@ Hey! I'm Alex, a.k.a. nim. I'm a hobbyist programmer in the US interested in emb
 
 I'm currently 19 years old. I'm transgender and go by she/they pronouns. I'm a sophomore at my university majoring in computer science.
 
-Other hobbies of mine include Mario speedrunning and amateur linguistics. My personal site is at https://mek.sm64.us, where I list my interests, my socials/contact info, and a handful of the projects I've worked on (though I've been too lazy to finish that page lol)
+Other hobbies of mine include Mario speedrunning and amateur linguistics. My personal site is at https://nim.cx, where I list my interests, my socials/contact info, and a handful of the projects I've worked on (though I've been too lazy to finish that page lol)
 
 The best way to contact me is at my email or over Discord at nim#6398.
 
